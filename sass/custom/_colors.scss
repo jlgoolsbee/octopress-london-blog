@@ -1,49 +1,54 @@
-/*
-  Here you can easily change your site's color scheme.
-  To give it a try, uncomment some of the lines below rebuild your blog, and see how it works.
-  Look at sass/base/_theme.scss for more colors you tweak (override them in this file)
+// Here you can easily change your sites's color scheme.
+// To give it a try, uncomment some of the lines below rebuild your blog, and see how it works.
+// If you need a handy color picker try http://hslpicker.com
 
-  For a handy color picker try http://hslpicker.com */
+$my-background-color: hsl(211, 82%, 15%);
+$header-bg: $my-background-color;
+/*$title-color: #fff;
+$subtitle-color: #fff;*/
+$title-color: #ddd;
+$subtitle-color: #ccc;
+$page-bg: $my-background-color;
+$link-color: darken(#888, 3) !default;
+$link-color-hover: adjust-color($link-color, $lightness: 10) !default;
+$link-color-visited: adjust-color($link-color, $lightness: -4) !default;
+$link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
 
-//$header-bg: #263347;
-//$subtitle-color: lighten($header-bg, 58);
-//$nav-bg: desaturate(lighten(#8fc17a, 18), 5);
-//$sidebar-bg: desaturate(#eceff5, 8);
-//$sidebar-link-color: saturate(#526f9a, 10);
-//$sidebar-link-color-hover: darken(#7ab662, 9);
+$uk-stripe-red: #8B0E0E;
+$uk-stripe-white: #ddd;
 
+// Global
+/*$my-background-color: hsl(211, 82%, 15%);
+$my-background-color: hsl(211, 48%, 20%);
+$text-color: #ddd;
+$text-color-light: #888 !default;
+$main-bg: $my-background-color;
 
-/* To use the dark code highlighting theme uncomment the following line */
+// Header
+$header-bg: $my-background-color;
+$title-color: #ddd;
+$subtitle-color: #ccc;
 
-//$solarized: dark;
+// Top nav
+$nav-bg: $my-background-color;
+$nav-bg-back: $my-background-color;
+$nav-border-top: $my-background-color;
+$nav-border-bottom: lighten($nav-bg, 15) !default;
+$nav-color: #aaa;
+$nav-color-hover: lighten($nav-color, 25) !default;
 
-/* To adjust the background color uncomment and edit the following line */
-/* If you intend to use a dark background, uncomment $solarized: dark; above*/
+// Main container
+$page-bg: $my-background-color;
 
-//$pre-bg: #252525;
+// Sidebar
+$sidebar-bg: $my-background-color;
+$sidebar-color: change-color(mix($text-color, $sidebar-bg, 100), $hue: hue($sidebar-bg), $saturation: saturation($sidebar-bg)/2) !default;
+$sidebar-border: desaturate(lighten($sidebar-bg, 7), 10) !default;
+$sidebar-border-hover: lighten($sidebar-bg, 7) !default;
 
-/* To change the color of the code markers, uncomment and change the following lines */
+// Main Link Colors
+$link-color: lighten(#ddd, 3) !default;
+$link-color-hover: adjust-color($link-color, $lightness: 10) !default;
+$link-color-visited: adjust-color($link-color, $lightness: -4) !default;
+$link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;*/
 
-//$marker:        rgba(#00baff, .5);
-//$marker-bg:     rgba($marker, .03);
-//$marker-border: rgba($marker, .13);
-//$marker-border-left:   $marker;
-
-/* For fine control over the syntax highlighting colors edit here */
-
-//$base03:          #002b36; //darkest blue
-//$base02:          #073642; //dark blue
-//$base01:          #586e75; //darkest gray
-//$base00:          #657b83; //dark gray
-//$base0:           #839496; //medium gray
-//$base1:           #93a1a1; //medium light gray
-//$base2:           #eee8d5; //cream
-//$base3:           #fdf6e3; //white
-//$solar-yellow:    #b58900;
-//$solar-orange:    #cb4b16;
-//$solar-red:       #dc322f;
-//$solar-magenta:   #d33682;
-//$solar-violet:    #6c71c4;
-//$solar-blue:      #268bd2;
-//$solar-cyan:      #2aa198;
-//$solar-green:     #859900;

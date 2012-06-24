@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Page Not Found
+title: "Four Oh Four!"
+footer: false
+sidebar: false
 ---
 
-Oops, I couldn't find that page! Sorry about that.
+It looks like you have requested a file or other resource which no longer exists... that's probably my bad, so... uh... sorry about that.
 
 Maybe try the search box (top right), or look through the [archives](/archives)?

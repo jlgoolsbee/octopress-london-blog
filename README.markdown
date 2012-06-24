@@ -1,3 +1,9 @@
+A personal blog to chronicle our lives living as American expats in London.
+
+Built on [Octopress](http://octopress.org/) (see below).
+
+---
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
