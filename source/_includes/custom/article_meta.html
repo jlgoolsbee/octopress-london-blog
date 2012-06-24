@@ -1,0 +1,11 @@
+{% if post.author %}
+  {% assign author = post.author %}
+{% elsif page.author %}
+  {% assign author = page.author %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+
+{% include post/date.html %}{{ time }}
+{% if author %}| <span class="byline author vcard"><span class="fn">{{ author }}</span></span>{% endif %}
+&bull; <a rel="bookmark" href="{{ permalink }}">{{ site.permalink_label }}</a>

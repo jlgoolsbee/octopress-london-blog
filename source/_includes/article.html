@@ -3,8 +3,7 @@
     {% include post/title.html %}
     {% unless page.meta == false %}
       <p class="meta">
-        {% include post/date.html %}{{ time }}
-         &bull; <a rel="bookmark" href="{{ permalink }}">{{ site.permalink_label }}</a>
+        {% include custom/article_meta.html %}
       </p>
     {% endunless %}
   </header>
