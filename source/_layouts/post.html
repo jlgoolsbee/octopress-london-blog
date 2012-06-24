@@ -29,11 +29,5 @@ single: true
 {% if page.comments == true %}{% include comments.html %}{% endif %}
 </div>
 {% unless page.sidebar == false or site.default_sidebar == false %}
-<aside class="sidebar">
-  {% if page.sidebar == nil or page.sidebar == 'collapse' %}
-    {% include_sidebar site.post_sidebar %}
-  {% else %}
-    {% include_sidebar %}
-  {% endif %}
-</aside>
+<aside class="sidebar">{% if page.sidebar == nil or page.sidebar == 'collapse' %}{% include_sidebar site.post_sidebar %}{% else %}{% include_sidebar %}{% endif %}</aside>
 {% endunless %}
