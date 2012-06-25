@@ -7,5 +7,5 @@
 {% endif %}
 
 {% include post/date.html %}{{ time }}
-{% if author %}| <span class="byline author vcard"><span class="fn">{{ author }}</span></span>{% endif %}
+{% if author %}&bull; <span class="byline author vcard"><span class="fn">{{ author }}</span></span>{% endif %}
 &bull; <a rel="bookmark" href="{{ permalink }}">{{ site.permalink_label }}</a>
