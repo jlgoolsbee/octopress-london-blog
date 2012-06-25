@@ -51,7 +51,7 @@ standard_post_marker:
 
 titlecase: true       # Converts page and post titles to titlecase
 
-lsi: true
+lsi: false  			  # Enables "related posts"
 
 # To change the layout's default sidebar Add a new sidebar source/_includes/sidebars/your_sidebar.html
 # then make changes below, eg. post_sidebar: your_sidebar.html
@@ -110,3 +110,5 @@ google_analytics_tracking_id: UA-32841181-1
 # Facebook Like
 facebook_like: true
 facebook_app_id: 174731542657697
+facebook_show_faces: true
+facebook_show_send: false
