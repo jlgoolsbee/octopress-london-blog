@@ -5,6 +5,7 @@ date: 2012-06-19
 author: "Stephanie"
 comments: true
 categories:
+published: false
 ---
 
 I think it is finally starting to sink in that we are moving. And suddenly the amount of things we have to do is starting to hit me. I seriously hate packing. But here I am at work, wanting to go home and start packing so I can feel like I’m getting something done.

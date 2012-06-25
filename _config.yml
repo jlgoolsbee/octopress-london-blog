@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://london-dev.jlgoolsbee.com
-title: Austin to London
+url: http://austintolondon.com
+title: ATX ✈ LON
 subtitle: Follow a couple 20-somethings in their journey from Austin, TX to London, England.
 author: Lee & Steph
 simple_search: http://google.com/search
@@ -16,8 +16,8 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_rss: http://feeds.feedburner.com/austintolondon
+subscribe_email: http://feedburner.google.com/fb/a/mailverify?uri=austintolondon&amp;loc=en_US
 category_feeds: false
 # RSS feeds can list your email address if you like
 email:
@@ -51,6 +51,8 @@ standard_post_marker:
 
 titlecase: true       # Converts page and post titles to titlecase
 
+lsi: true
+
 # To change the layout's default sidebar Add a new sidebar source/_includes/sidebars/your_sidebar.html
 # then make changes below, eg. post_sidebar: your_sidebar.html
 blog_index_sidebar: custom_sidebar.html
@@ -63,7 +65,7 @@ post_sidebar: custom_sidebar.html
 
 # Javascript social buttons often generate lots of http requests and may track your viewer's browsing history
 # Show respect for privacy and bandwidth with simple links for Twitter, Facebook and Google Plus.
-respectfully_social: true
+respectfully_social: false
 
 # Github repositories
 github_user:
@@ -98,12 +100,13 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: austintolondon
+disqus_show_comment_count: true
 disqus_developer: 0
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-32841181-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
+facebook_app_id: 174731542657697

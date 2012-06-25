@@ -7,7 +7,7 @@ require 'rake/minify'
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "jlgoolsbee@jlgoolsbee.com"
 ssh_port       = "22"
-document_root  = "/home/jlgoolsbee/london-dev.jlgoolsbee.com/"
+document_root  = "/home/jlgoolsbee/austintolondon.com/"
 rsync_delete   = true
 deploy_default = "rsync"
 

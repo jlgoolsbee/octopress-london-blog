@@ -2,12 +2,12 @@
 layout: post
 title: "Its Official!"
 date: 2012-06-12
-author: "Stephanie"
+author: "Lee & Stephanie"
 comments: true
 categories:
 ---
 
-Now, its official. WE ARE MOVING TO LONDON!!
+It's official. WE ARE MOVING TO LONDON!!
 
 Last Sunday, Lee received his official offer letter from his company.  By that point, we had already evaluated everything, and had pretty much talked the situation to death, so it was kind of a no brainer.  Lee signed and returned the offer letter last Monday, so yeah, its pretty official.
 
