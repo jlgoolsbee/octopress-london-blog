@@ -44,7 +44,7 @@ module Jekyll
       output = super
       if @location
         source = "<a href='http://maps.google.com?q=#{@location}' target='_blank'>"\
-                 "<img border='0' class='#{@style}' src='http://maps.googleapis.com/maps/api/staticmap?center=#{@location}&zoom=#{@zoomLevel}&size=#{@width}x#{@height}&sensor=false'/>"\
+                 "<img height='#{@height}' width='#{@width}' border='0' class='#{@style}' src='http://maps.googleapis.com/maps/api/staticmap?center=#{@location}&zoom=#{@zoomLevel}&size=#{@width}x#{@height}&scale=2&sensor=false'/>"\
                  "</a>"
         source
       else
