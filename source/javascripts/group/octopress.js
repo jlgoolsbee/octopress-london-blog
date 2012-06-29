@@ -273,6 +273,10 @@ $(document).ready(function() {
   octopress.addSidebarToggler();
   octopress.twitter.getFeed('#tweets')
   octopress.github.showRepos('#gh_repos');
+  $(".fancybox").fancybox({
+    nextEffect  : 'fade',
+    prevEffect : 'fade'
+  });
 });
 
 var htmlEncode = (function() {

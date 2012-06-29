@@ -3,6 +3,16 @@
 
 .sans { font-family: $sans; }
 
+.fancybox-group {
+  margin-bottom: 0.5em;
+}
+.fancybox img {
+  margin: 0 1em 1em 0;
+}
+.fancybox.right img {
+  margin: 0 0 0 16px;
+}
+
 html {
   background: $page-bg image-url('noise.png') top left;
   /*background-color: $page-bg;*/
