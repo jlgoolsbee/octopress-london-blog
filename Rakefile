@@ -2,6 +2,8 @@ require "rubygems"
 require "bundler/setup"
 require "stringex"
 require 'rake/minify'
+require 'RMagick'
+include Magick
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
@@ -54,18 +56,43 @@ end
 desc "Generate jekyll site"
 task :generate do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
-  puts "## Generating Site with Jekyll"
+  puts "## Compiling CSS with Compass"
   system "compass compile --css-dir #{source_dir}/stylesheets"
+  puts "## Minifying JS"
   Rake::Task['minify_and_combine'].execute
+  puts "## Generating image thumbnails"
+  Rake::Task["img_thumbs"].execute
+  puts "## Generating Site with Jekyll"
   system "jekyll"
+end
+
+desc "Create thumbnails for post images"
+task :img_thumbs do
+  if File.exist?("#{source_dir}/images/blog")
+    scale_by = 132
+    post_img_folders = FileList.new("#{source_dir}/images/blog/*")
+    post_img_folders.each do |img_folder|
+      mkdir_p "#{img_folder}/thumbnails" unless File.directory?("#{img_folder}/thumbnails")
+      post_images = FileList.new("#{img_folder}/*.*")
+      post_images.each do |f|
+        img_filename = File.basename(f)
+        thmb_file = "#{img_folder}/thumbnails/#{img_filename}"
+        if not File.exist?(thmb_file)
+          image = Magick::Image.read(f).first
+          puts "# Resizing #{image.filename}"
+          new_image = image.resize_to_fill(scale_by, scale_by)
+          new_image.write(thmb_file)
+        end
+      end
+    end
+  else
+    puts "No directory found at #{source_dir}/images/blog."
+  end
 end
 
 Rake::Minify.new(:minify_and_combine) do
   files = FileList.new("#{source_dir}/javascripts/group/*.*")
-
-  output_file =  "#{source_dir}/javascripts/octopress.min.js"
-
-  puts "BEGIN Minifying #{output_file}"
+  output_file = "#{source_dir}/javascripts/octopress.min.js"
   group(output_file) do
     files.each do |filename|
       puts "Minifying- #{filename} into #{output_file}"
@@ -76,7 +103,6 @@ Rake::Minify.new(:minify_and_combine) do
       end
     end
   end
-  puts "END Minifying #{output_file}"
 end
 
 # usage rake generate_only[my-post]
@@ -136,7 +162,9 @@ task :new_post, :title do |t, args|
   end
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
   mkdir_p "#{source_dir}/#{posts_dir}"
-  filename = "#{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
+  postpath = "#{source_dir}/#{posts_dir}"
+  postname = "#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}"
+  filename = "#{postpath}/#{postname}.#{new_post_ext}"
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
@@ -151,6 +179,7 @@ task :new_post, :title do |t, args|
     post.puts "categories: "
     post.puts "---"
   end
+  mkdir_p "#{source_dir}/images/blog/#{postname}" if ask("Do you want to create an image folder for this post?", ['y', 'n']) == 'y'
 end
 
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
