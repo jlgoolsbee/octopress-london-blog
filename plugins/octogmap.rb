@@ -12,6 +12,7 @@
 
 module Jekyll
   class OctoGmap < Liquid::Tag
+    
     @latlon = nil
     @poi = nil
     @location = nil
@@ -19,6 +20,7 @@ module Jekyll
     @style = nil
     @height = nil
     @width = nil
+    
     def initialize(tag_name, markup, tokens)
       if markup =~ /((-?\d{1,3}\.\d+,-?\d{1,3}\.\d+)|(\"(([^\"])*)\"))(\s+)(\d+)(\s+)?(\w+)?/i
         @style = "wide"
@@ -33,6 +35,13 @@ module Jekyll
         else
           @location = @poi
         end
+        @map_baseUrl = 'http://maps.google.com'
+        @map_params = Array.new
+        @map_params << 'q='+@location
+        @map_params << 'output=embed'
+        @map_params << 'z='+@zoomLevel
+        # @map_params << 'output=embed' if site.config['use_fancybox'] == true
+        @map_url = @map_baseUrl+'?'+@map_params.join("&")
         if @style == "wide"
           @width = "640"
           @style = nil
@@ -40,17 +49,19 @@ module Jekyll
       end
       super
     end
+    
     def render(context)
       output = super
       if @location
-        source = "<a href='http://maps.google.com?q=#{@location}' target='_blank'>"\
-                 "<img height='#{@height}' width='#{@width}' border='0' class='#{@style}' src='http://maps.googleapis.com/maps/api/staticmap?center=#{@location}&zoom=#{@zoomLevel}&size=#{@width}x#{@height}&scale=2&sensor=false'/>"\
+        source = "<a href='#{@map_url}' class='fancybox' data-fancybox-type='iframe' target='_blank'>"\
+                 "<img style='max-height: 148px;' border='0' class='#{@style}' src='http://maps.googleapis.com/maps/api/staticmap?center=#{@location}&zoom=#{@zoomLevel}&size=#{@width}x#{@height}&scale=2&sensor=false'/>"\
                  "</a>"
         source
       else
         "Error processing input, expected syntax: {% gmap location zoomlevel style* %} - * => optional"
       end
-    end   
+    end
+
   end
 end
 
