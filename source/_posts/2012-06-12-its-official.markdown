@@ -2,7 +2,7 @@
 layout: post
 title: "Its Official!"
 date: 2012-06-12
-author: "Lee & Stephanie"
+author: "Lee and Stephanie"
 comments: true
 categories:
 ---

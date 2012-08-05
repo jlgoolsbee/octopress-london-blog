@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Success!"
+date: 2012-07-25
+author: "Stephanie"
+comments: true
+external-url: 
+categories: 
+---
+
+We are home! Yay!
+
+All told, we were actually in London for 5.5 days (2 of those days were a weekend) and we basically had the most productive trip ever. We were able to set up a phone, get a bank account, and... find a flat!!
+
+We looked at probably close to 15 different flats through many different agents, and we were sorely disappointed with most of them. How many times can we tell the same person our move in date? Each time we got the same response - "Oh, well this is available now. They will never hold it for you." Then why are you showing it to us?? We gave you our requirements!  We also had a fun interaction with an agent who we decided just doesn't think very highly of Americans. He asked us literally 5 times - through many different forms of communication - whether we would be on time for a viewing. Luckily, we were able to cancel that appointment because we had already secured a flat.
+
+We did so much searching online that we had already seen pictures of several of the flats we were shown. None of them lived up to their pictures. They were either so small that you couldn't move in the bedroom without climbing on the bed, or they were dingy and not well taken care of. 
+
+The **only** flat that we saw that was better in person than it was online was the one we decided on. It is perfect. Having never rented anywhere but the US, we are pretty clueless on this whole process. We had to put in an offer and the landlord could accept or reject it. Our situation was a bit tricky because we have house cats - which is apparently a very rare thing in the UK - so the landlords had to seriously think it over. 
+
+Long story short - they accepted our offer.
+
+Little bit of a longer story - we were one of two offers in on the property and they were leaning towards the other offer. They decided to go ahead and meet with us anyway, which really was the best thing ever. Our meeting went really well, but they told the agent on Saturday afternoon that they needed the weekend to think about it and would have a decision by Monday. 
+
+We spent Saturday night and Sunday exploring London a bit more and worrying. We were really trying to be calm and trust that God would take care of us. On Saturday night, we went to King's Cross station, and then down to Tower Bridge and walked around. We even got a bit adventurous and had dinner at a little Italian place we found. On Sunday, we actually slept in and then took the Tube to Harrod's, sat a while in Hyde Park (which is absolutely beautiful) and went to Buckingham Palace. Looking back on it, I have no idea how we fit so much into just a few days and were still productive!
+
+{% raw %}
+<p class="fancybox-group">
+	<a class="fancybox" rel="success-exploring" href="/images/blog/2012-07-25-success/IMG_2471.JPG"><img src="/images/blog/2012-07-25-success/thumbnails/IMG_2471.JPG" alt=""/></a>
+	<a class="fancybox" rel="success-exploring" href="/images/blog/2012-07-25-success/SDC19232.JPG"><img src="/images/blog/2012-07-25-success/thumbnails/SDC19232.JPG" alt=""/></a>
+	<a class="fancybox" rel="success-exploring" href="/images/blog/2012-07-25-success/SDC19258.JPG"><img src="/images/blog/2012-07-25-success/thumbnails/SDC19258.JPG" alt=""/></a>
+	<a class="fancybox" rel="success-exploring" href="/images/blog/2012-07-25-success/SDC19272.JPG"><img src="/images/blog/2012-07-25-success/thumbnails/SDC19272.JPG" alt=""/></a>
+	<a class="fancybox" rel="success-exploring" href="/images/blog/2012-07-25-success/IMG_1213.JPG"><img src="/images/blog/2012-07-25-success/thumbnails/IMG_1213.JPG" alt=""/></a>
+	<a class="fancybox" rel="success-exploring" href="/images/blog/2012-07-25-success/SDC19291.JPG"><img src="/images/blog/2012-07-25-success/thumbnails/SDC19291.JPG" alt=""/></a>
+	<a class="fancybox" rel="success-exploring" href="/images/blog/2012-07-25-success/SDC19298.JPG"><img src="/images/blog/2012-07-25-success/thumbnails/SDC19298.JPG" alt=""/></a>
+	<a class="fancybox" rel="success-exploring" href="/images/blog/2012-07-25-success/SDC19318.JPG"><img src="/images/blog/2012-07-25-success/thumbnails/SDC19318.JPG" alt=""/></a>
+</p>
+{% endraw %}
+
+Sunday afternoon in the middle of Harrod's, Lee pulled out his phone to look something up, and we had an email from the landlords saying they wanted to rent to us. We both just stood there staring at each other in the middle of the store. What a relief! We still had (well, have) several hoops to jump through, but all of that is manageable knowing that we should have a place to live when we get there in a month.
+
+We had another minor scare yesterday when we got off the plane for a layover at JFK and had an email from the agent we have been working with that our reference check failed. We were confused about how that could happen since we literally have no UK references except for Lee's job and we provided the signed offer letter there. And of course, since we had been on a plane all stinking day it was after business hours in London so were stuck waiting again. Eventually, we were able to get through and it was something very minor that we were able to clear up pretty quickly. Thank goodness.
+
+Anyway, everything should be okay now and we will hopefully be signing the lease in the next few days. We are thrilled to have found the place that we did, and are feeling very blessed with the way it is working out. This particular flat was a little different than the typical property that we saw. Most properties were owned and managed by someone as an income property or perhaps through a management company, but this one is owned by a couple who have been living in for several years and are relocating. Since it has been their home, they have taken excellent care of it, and put a lot of time and effort into decorating and furnishing it, so we will be moving into a ready-made home. We'll post some pictures soon!
+
+Really, we could not be more excited. And I am feeling a lot better about everything now that I know where we will be living in a month! And knowing that our cats can come with us. :) It was a very successful trip!

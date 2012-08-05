@@ -2,10 +2,10 @@
 layout: post
 title: "Visas!"
 date: 2012-07-12 18:06
+author: "Lee"
 comments: true
 external-url: 
 categories: 
-author: Lee
 ---
 
 As you can probably guess from the title, we got our UK entry clearance sorted this week and were issued our visas.  Pretty nifty for me, considering I've never actually had anything in any of my passports! (Mexico doesn't count, and my only other foreign travels have been via cruises, and they don't stamp your passport in either of those cases.)

@@ -1,0 +1,28 @@
+---
+layout: post
+title: "We're here!"
+date: 2012-07-18 17:20
+author: "Lee"
+comments: true
+external-url: 
+categories: 
+---
+
+Well, sorta.  We're in London this week for our flat-hunting trip, and what a trip it's been so far (and it's only been one day).
+
+Our flight out of Austin was delayed about 30 minutes because President Obama was flying into Austin for a fund-raiser of some kind.  We didn't know he was coming that day or we wouldn't have scheduled our flight anywhere near it, but there wasn't any warning.  Delta – to their credit – tried to leave early so that we wouldn't be delayed, but a few passengers were running late and we just missed the opportunity to get out before they shut down the airport.  Then, during the flight we had to skirt around some bad weather, so in the end our 1.5 hour layover in Atlanta ended up being about 40 minutes, which left only about 10 minutes to spare for us to run through the terminal (yeah, we were *those* people) to catch our connection to London.
+
+The flight from Atlanta to London was loooong.  I've never flown internationally, and we chose Delta for this trip based solely on price.  At this point I can say I'm already happy that a couple weeks ago I went ahead and upgraded our return seats to Delta's "Economy Comfort" level, as sitting in their normal Economy section for that length of time was pretty unbearable.  The airline food wasn't as terrible as I thought it would be; they fed us dinner when we left and a light breakfast just before arrival, and both were decent.  Flying on a 767 was cool though; at this point, that's the largest plane I've ever flown on.
+
+Everything after that was a breeze though, comparatively, which blew my mind.  After we disembarked at Heathrow, we went through immigration and customs in about 15 minutes, made our way down to the Underground station, bought Oyster cards, and were on our way into town just a half-hour or so after we'd landed.  This blew away every estimate anybody had given me for how long it would take to get that far, and while I don't think our experience was "the norm", it was nice.
+
+We haven't looked at any flats yet, but we were able to secure a bank account and a PAYG (Pay As You Go) SIM card for my iPhone today, and otherwise we just took some time to familiarize ourselves with using the Tube, and getting around the areas we're considering.  All-in-all, a pretty productive 24 hours.
+
+I'll leave with you with a couple random pictures from our travels today:
+
+{% raw %}
+<p class="fancybox-group">
+	<a class="fancybox" rel="werehere-random" href="/images/blog/2012-07-18-were-here/IMG_2443.JPG"><img src="/images/blog/2012-07-18-were-here/thumbnails/IMG_2443.JPG" alt=""/></a>
+	<a class="fancybox" rel="werehere-random" href="/images/blog/2012-07-18-were-here/IMG_1206.JPG"><img src="/images/blog/2012-07-18-were-here/thumbnails/IMG_1206.JPG" alt=""/></a>
+</p>
+{% endraw %}
