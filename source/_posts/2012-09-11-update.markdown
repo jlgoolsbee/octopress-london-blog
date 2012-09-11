@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Update"
+date: 2012-09-11
+comments: true
+external-url: 
+categories: 
+---
+
+So it has been two full weeks since I arrived - three weeks for Lee - and I think we are finally getting in a rhythm. Lee had his first week of work last week, and I think he is really liking it so far. I think he also really likes his commute - it doesn't take any longer than it did in Austin, except he can sit and read or something instead of focusing on driving. 
+
+We've started cooking pretty often which tends to be an adventure. I'm loving the gas cook-top – we've never had one, and I've always wanted one. The part that I think is confusing both a little bit is the oven. It is a convection oven – which neither of us have ever used – and the temperature is in Celsius. We are figuring it out, but nearly every time we want to use it, we have to look up temperatures or the manual to figure out which settings to use.
+
+Something else that is taking some getting used to is doing the laundry. Thankfully, we do have a washing machine, but we do not have a dryer. From what we can tell, dryers are pretty rare here. This means we have to hang everything to dry on the drying rack we bought (we don't have anywhere to hang a clothesline). It definitely is taking some adjustment though. Especially right now, the weather outside is very nice (which is awesome), but it means that we don't have the radiators on at all. Laundry takes at least a day, if not two to dry completely since it is so humid, and that requires some planning ahead.
+
+Several people have asked for an update on the cats - they are doing great. They spend a few hours each morning running laps through the flat and driving me crazy – it's our morning ritual. They have new food, new litter, and completely new toys, litter box, food/water dishes, etc and they have adjusted just fine. We keep them out of the living room at night and while we are gone, since this is the room with all of the nice furniture and electronics that they could ruin. It is working pretty well actually. At our apartment in Austin, we kept our door closed at night and they had free-run of everything but our room. Now, we leave our door open, so they have access to their food, litter box, and our room. Surprisingly, there has only been one night so far that they have woken us up - it was the time Romona coughed up a hairball at about 7am on Sunday. Fun stuff. I say "us" loosely; I slept through it. :)
+
+Last night, we went on a semi-random date night. We did a short river cruise tour on the Thames and then went up in the London Eye, which was pretty cool. It is a very smooth ride so you can't even really tell you are moving. It was a nice way to familiarize ourselves with some of London's sites and really start to make a list of everything we want to see/do. Lee took several pictures; I've put a few below, but you can see the rest [on Facebook][1]. We also went to Cantina Laredo. I know. Mexican food in London? We figured we would be semi-safe with a chain. It was decent, if not overpriced, but the small taste of Tex-Mex was definitely welcomed. Mmmm... Table-side guacamole...
+
+[1]: https://www.facebook.com/media/set/?set=a.609766756897.2051628.152600033&type=1&l=f125e2e0f4
+
+{% raw %}
+<p class="fancybox-group">
+    <a class="fancybox" rel="update-londoneye" href="/images/blog/2012-09-11-update/IMG_9467.JPG"><img src="/images/blog/2012-09-11-update/thumbnails/IMG_9467.JPG" alt=""/></a>
+    <a class="fancybox" rel="update-londoneye" href="/images/blog/2012-09-11-update/IMG_9478.JPG"><img src="/images/blog/2012-09-11-update/thumbnails/IMG_9478.JPG" alt=""/></a>
+    <a class="fancybox" rel="update-londoneye" href="/images/blog/2012-09-11-update/IMG_9584.JPG"><img src="/images/blog/2012-09-11-update/thumbnails/IMG_9584.JPG" alt=""/></a>
+    <a class="fancybox" rel="update-londoneye" href="/images/blog/2012-09-11-update/IMG_9587.JPG"><img src="/images/blog/2012-09-11-update/thumbnails/IMG_9587.JPG" alt=""/></a>
+</p>
+{% endraw %}
+
+Today, I had my first real day of adventures on my own. Every other place I've gone by myself was at least in an area that Lee and I had been before. Today, I ventured into the city in search of jackets. I was able to get us both nice 3-in-1 jackets that we will be able to use parts of immediately. We were both needing actual rain jackets, and in lieu of getting something we would only be able to wear for part of the year, we went for something that has an attachable fleece layer (that can also be used separately) so we should be able to wear some part of them year-round. I also attended my first ever Zumba class. I enjoyed the class itself – I am very uncoordinated, so it wasn't pretty, but it was fun. What I did not enjoy was the getting there and back. I didn't plan as well as I thought I did and had to do a lot more walking in unfamiliar areas. No worries, Mom – it wasn't a sketchy area or anything – I was just already out of my comfort zone going to the class in the first place and it was just all too much. I've found a few other classes that are more easily accessible that I am going to try.
+
+Aside from the Zumba class tonight, we haven't been very social yet. Lee has obviously met co-workers, but the only real interaction I've had is with our downstairs neighbor. She is a very nice lady - quite a bit older than us, as in, pretty sure she said she has a granddaughter that is 21. She rang the bell this morning to give me some of our mail she took by mistake, and Reg came down the stairs and decided to be social. She was just so excited to meet the cats that I ended up standing in her living room visiting for about 20 minutes while the cats explored her living room and entry way. She just thought the cats were awesome and told me to come by anytime for coffee. 
+
+All that to say, so far, so good. We like it here. Don't know how I will feel in a year, but I am definitely enjoying my new home.
