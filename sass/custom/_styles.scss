@@ -38,10 +38,15 @@ body {
 }
 
 blockquote {
-    @extend .serif;
+  @extend .serif;
 }
 
-hr { margin-bottom: 1.5em; }
+hr { 
+  margin-bottom: 1.5em;
+  background: $img-border top left repeat-x;
+  border: 0 none;
+  height: 1px;
+}
 
 
 #{headings()}{
