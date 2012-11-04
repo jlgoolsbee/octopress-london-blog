@@ -27,7 +27,7 @@ The terminal you fly into at [Heathrow][] will change depending on the airline y
 
 ### Trains
 
-{% raw %}<a class="fancybox" href="/tips/heathrow-rail.png" title="Map of Heathrow-area train options."><img src="/tips/heathrow-rail.png" /></a>{% endraw %}
+{% raw %}<a class="fancybox" href="/visiting-tips/heathrow-rail.png" title="Map of Heathrow-area train options."><img src="/visiting-tips/heathrow-rail.png" /></a>{% endraw %}
 
 #### Heathrow Express
 
@@ -51,7 +51,7 @@ London has fantastic public transit; some general knowledge about the system ahe
 
 ### Oyster card
 
-{% img right /tips/oyster-card.jpg %}
+{% img right /visiting-tips/oyster-card.jpg %}
 
 Get an [Oyster card][].  An Oyster card is a PAYG (pay-as-you-go) RFID-enabled travel card used for traveling on London Underground, Overground, DLR, and some National Rail trains (depending on how far outside the city center you go), as well as London buses.  You can get one at almost any manned Underground station (including Heathrow).  They work on a PAYG system; you top up the card at any Oyster kiosk using cash or card, and scan your Oyster card when you enter and leave the Underground system, or when boarding a bus.  When you travel via the Underground or other National Rail services that use Oyster, the system tracks where you entered and where you exited, and charges you the best possible fare for the journey.  When you scan your Oyster card on a bus, you're just charged a flat rate.
 
@@ -59,37 +59,37 @@ If you've done any research on Oyster cards before traveling, you may have seen 
 
 ### Basic terms/info to know
 
-{% img right /tips/logo-underground.png %}
+{% img right /visiting-tips/logo-underground.png %}
 
 #### [Underground or Tube][]
 
 Refers to the oldest-of-its-kind-in-the-world traditional subway that operates both in tunnels under the city and above ground in some areas outside the city center.
 
-{% img right /tips/logo-overground.png %}
+{% img right /visiting-tips/logo-overground.png %}
 
 #### [Overground][]
 
 Refers to a newer rail system built to compliment the Underground.  The Overground – as the name implies – travels on surface-level tracks, and serves some of the more suburban areas of London.
 
-{% img right /tips/logo-dlr.png %}
+{% img right /visiting-tips/logo-dlr.png %}
 
 #### [Docklands Light Railway][]
 
 Similar to the Overground, the DLR is an above-ground railway that services the Docklands area on the east side of London.  Notably, the DLR trains have no driver, and are all computer-controlled.
 
-{% img right /tips/logo-tramlink.png %}
+{% img right /visiting-tips/logo-tramlink.png %}
 
 #### [Tramlink][]
 
 The Tramlink (or Croydon Tramlink) is an above-ground tram system in southern London.  Unlike other London rail-based transit systems, fares on Tramlink are a flat fee, like buses.
 
-{% img right /tips/logo-tfl.png %}
+{% img right /visiting-tips/logo-tfl.png %}
 
 #### [TFL][]
 
 TFL stands for "Transport for London", which is the governing body charged with running the various public transit systems in London.
 
-{% img right /tips/logo-nationalrail.png %}
+{% img right /visiting-tips/logo-nationalrail.png %}
 
 #### [National Rail][]
 
