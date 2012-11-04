@@ -1,12 +1,11 @@
 ---
 layout: page
 title: "Tips for visiting London"
-comments: false
-sharing: false
-footer: false
+comments: true
+sharing: true
+footer: true
 toc: true
 body_id: tips
-#sidebar: collapse
 ---
 
 This page started as a list we were building for Steph's parents when they were planning a trip to visit us here in London.  We started coming up with all these tips, and figured we should just share them here in a "living" format that we can update from time to time.  Hope you find it useful!  Let us know in the comments if you do, and also let us know if you think we got anything below incorrect – the views here are really just our own after being here for a couple months.
@@ -17,14 +16,14 @@ Depending on how long you're going to be here and what time of the year you'll b
 
 - A travel size umbrella
 - Good walking shoes
-- A fleece or sweater
+- A thick fleece or sweater
 - A rain jacket; something that – depending on the temperature – you can pair with the fleece or sweater
 
 ## Arriving at Heathrow
 
 _We don't have any experience with any airport in the London area except Heathrow at the moment, so this section focuses only on that airport._
 
-The terminal you fly into at [Heathrow][] will change depending on the airline you fly in on; in general, if you fly British Airways you'll pretty much always end up at Terminal 5, and any other airline will end up at one of the other terminals.  They've tried to split up terminals to match airline allegiances as much as possible (Delta is at Terminal 4; American Airlines and Virgin Atlantic are at Terminal 3; United, US Airways, and Continental are at Terminal 1), but there are exceptions to those rules.  Links between terminals are easy thanks to Heathrow Connect and Heathrow Express, and the terminals have plenty of signage to help you get around.
+The terminal you fly into at [Heathrow][] will change depending on the airline you fly in on; in general, if you fly British Airways you'll pretty much always end up at Terminal 5, and any other airline will end up at one of the other terminals.  They've tried to split up terminals to match airline allegiances as much as possible (Delta is at Terminal 4; American Airlines and Virgin Atlantic are at Terminal 3; United, US Airways, and Continental are at Terminal 1), but as with all rules, there are occasionally exceptions.  Links between terminals are easy thanks to Heathrow Connect and Heathrow Express, and the terminals have plenty of signage to help you get around.
 
 ### Trains
 
@@ -126,17 +125,18 @@ For one, meals are typically longer affairs than they are in the US.  There are 
 - It's perhaps more common to order an appetizer, main course, and a maybe also a dessert, because the portion sizes for everything are more reasonably sized, and also because you're typically at the table longer.
 - Given that meals at restaurants are expected to be longer and perhaps more social affairs, waiters and waitresses will tend to leave you alone unless you grab their attention.  This extends to getting the bill; at most restaurants, you'll need to ask for the bill when you want it.  This isn't seen as rude – as it might be in the US – rather, it seems more the opposite is true; that it would be rude for them to interrupt your conversation or bring you the bill before you've asked for it.
 
-Second, employees at restaurants here are paid what they should be, not beneath minimum wage like they are in the US.  This means there's not as much of a tipping culture in the restaurants here (though this extends to many other areas).  If the service was excellent, tip your waiter/waitress something like 10% to the nearest pound; if not, don't feel bad about not tipping – you're not expected to.
+Second, employees at restaurants here are paid what they should be, not beneath minimum wage like they are in the US.  This means there's not as much of a tipping culture in the restaurants here (and this extends to many other areas).  If the service was excellent, tip your waiter/waitress something like 10% to the nearest pound; if not, don't feel bad about not tipping – you're not expected to.
 
 ## Money
 
 The currency in the UK is pounds (also called pounds sterling and abbreviated with the "£" symbol), and decimal amounts are called pence (usually abbreviated with the lowercase letter "p").  How you pay for things in the UK is up to you, but it's a good idea to have some cash on hand even if you intend to use your US credit card (which you can do) as some shops don't take cards.
 
-Credit cards exist here, but "[chip and pin][]" debit cards are much more commonly used.  They work much like debit card readers in the US except you insert your card and then type your pin – kinda like an ATM – as opposed to swiping.  You won't have one of these cards, so if/when a shop or restaurant asks you to insert your card, more than likely you can just insert your card into the reader as if it had a pin, and the reader will read the magnetic stripe instead.
+Magnetic-swipe cards exist here, but "[chip and pin][]" cards are much more commonly used.  They work much like debit card readers in the US except you insert your card and then type your pin – kinda like an ATM – as opposed to swiping.  You won't have one of these cards, so if/when a shop or restaurant asks you to insert your card, more than likely you can just insert your card into the reader as if it had a chip, and the reader will read the magnetic stripe instead; otherwise, look for a separate swipe area either on top or on the side of the reader..
 
 ## Miscellanous
 
 - When crossing the street, don't needlessly wait for the walk signal; it's a sure sign of a tourist.  Pay attention to which direction traffic is travelling (may be left or right depending on if the street is one-way or not – and keep in mind the direction of travel is the reverse of what you're used to), and if the coast is clear, just go.  When in doubt, if others are doing it, you probably should too.
+- On a related note, the traffic lights here work a little differently in that they will generally move back to yellow before turning green (instead of going straight from red to green), but that doesn't mean drivers will wait for the green, so keep that in mind when considering whether to cross or not.
 
 [Heathrow]: http://en.wikipedia.org/wiki/London_Heathrow_Airport
 [Heathrow Express]: http://en.wikipedia.org/wiki/Heathrow_Express
