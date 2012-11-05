@@ -5,7 +5,8 @@ comments: true
 sharing: true
 footer: true
 toc: true
-body_id: tips
+body_id: visitingtips
+description: "Our tips for visiting London."
 ---
 
 This page started as a list we were building for Steph's parents when they were planning a trip to visit us here in London.  We started coming up with all these tips, and figured we should just share them here in a "living" format that we can update from time to time.  Hope you find it useful!  Let us know in the comments if you do, and also let us know if you think we got anything below incorrect – the views here are really just our own after being here for a couple months.
@@ -31,9 +32,13 @@ The terminal you fly into at [Heathrow][] will change depending on the airline y
 
 #### Heathrow Express
 
+{% img right /visiting-tips/logo-heathrowexpress.jpg %}
+
 [Heathrow Express][] is a National Rail service that runs direct high-speed service between Heathrow Terminal 5, 1,2,3, and Paddington.  You won't be able to use your Oyster on Heathrow Express; this is a ticket-only service, and tickets aren't cheap.  More than likely, the only time you'll use Heathrow Express is to travel between Terminals 1,2,3 and 5 to get to/from Heathrow Connect.
 
 #### Heathrow Connect
+
+{% img right /visiting-tips/logo-heathrowconnect.png %}
 
 [Heathrow Connect][] is another National Rail service that runs between Heathrow Terminals 4 and 1,2,3, and Paddington, but it also stops at Hayes and Harlington, Southall, Hanwell, West Ealing, and Ealing Broadway in between.  This is one exception to being able to use your Oyster on National Rail; while technically you can travel on Heathrow Connect between Hayes and Harlington and Paddington on your Oyster, you can't travel between Heathrow and Hayes and Harlington on Oyster.  This means that you'll need to buy a ticket to travel on Heathrow Connect to get out of or into Heathrow, but if you're not travelling to Heathrow and want to use Heathrow Connect to travel exclusively between any of the other stations (like between Ealing Broadway and Paddington), your Oyster card will be valid for that journey.  You can change at Ealing Broadway for the Underground District and Central lines, and at Paddington for the Bakerloo, Circle, District, and Hammersmith & City lines.
 
