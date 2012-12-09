@@ -114,12 +114,34 @@ There's not much you need to know about using London's taxis; just be sure you'r
 
 ## Phones
 
-In Europe, people commonly travel from country to country, and there's not many – if any – Europe-level mobile carriers; all the carriers here operate at the country-level (just like the US, really).  Given this fact, the mobile landscape here is completely different, in that PAYG SIM cards with voice, texts, and data are available easily, and most importantly, cheaply!  This means if you're coming from the US and have an unlocked GSM phone (if it uses a SIM card or has a slot for one, it's GSM-capable), odds are you can just pick up a SIM here for so much cheaper than it would cost you to pay international roaming fees to your US carrier.  You do need to be sure of a couple things though:
+You have a couple options when it comes to using your phone overseas, and which you choose really comes down to what kind of phone you have and how you intend to use it.
+
+### Use your US carrier's international roaming plan
+
+While this is technically the easiest option, your carrier is going to punch you in the gut with your bill when you get home.  They overcharge for everything, from the calls you'll make and text messages you'll send to the data you'll inevitably use.
+
+Here's how this works: depending on your carrier and the model of phone you have, your carrier will either just enable "International Roaming" on your plan, or you'll be supplied with a dedicated "International Roaming" SIM.  When you travel here, your phone number stays the same – you do not have a local number – which is great if people back home want or need to call or text you, and also makes it easy for you to call people back home (no need for you or others to mess with international calling codes).  Where this breaks down is if you want to call UK numbers or have someone in the UK call you; then you and others calling you will have to mess with international calling codes, which can be a hassle for un-initiated.
+
+### Use a UK carrier
+
+In Europe, people commonly travel from country to country, and there's not many – if any – Europe-level mobile carriers; all the carriers here operate at the country-level (just like the US, really).  Given this fact, the mobile landscape here is completely different, in that <abbr title="Pay As You Go">PAYG</abbr> SIM cards with voice, texts, and data are available easily, and most importantly, cheaply!  This means if you're coming from the US and have an unlocked GSM phone (if it uses a SIM card or has a slot for one, it's GSM-capable), odds are you can just pick up a SIM here for so much cheaper than it would cost for you to pay international roaming fees to your US carrier.  You do need to be sure of a couple things though:
 
 * Your phone needs to be SIM-unlocked.  Check with your carrier on this.
 * Your phone needs to be compatible with the GSM networks in Europe.  By far the most common GSM frequencies in Europe are 900 MHz and 1800 MHz, whereas in the US the most common are 850 MHz and 1900 MHz.  Check with your carrier and/or consult the manufacturer of your phone to see if your phone supports those frequencies.  Many popular phones built in recent years – such as the iPhone 4, 4s, and 5 – support all 4 GSM frequencies.
 
 There are several major carriers in the UK ([O2][], [EE][]/[Orange][]/[T-Mobile][], [3][], [Vodafone][]); any of them would likely be a decent choice, but we only have experience with O2, so they're the only ones we can personally comment on.  Their signal quality isn't always the best, but their 3G coverage is widespread and is pretty decent speed-wise.
+
+### Recommended iPhone Apps
+
+If you have an iPhone, it can be a valuable resource for getting around.  There's no one app that fits every travel scenario thouh; here's what we've been using.
+
+#### [Tube Tamer][]
+
+This is a truly fantastic app for planning an entire journey from start to end.  Despite the name, it routes you via pretty much all available forms of transportation in London, and you can enable/disable the transportation methods you do/don't want to use.  The great thing is that it taps directly into the TFL's timetables via their API, which means it's incredibly accurate.  After planning a journey, you can view a text list of directions and/or a map view that uses Apple's maps but overlays your journey on the map with steps you can page through.  It's slick, it's fast, and I use it every day.
+
+#### [Bus Checker][]
+
+This app is geared (maybe obviously) towards traveling on London's bus network.  This app lets you look at bus stops around you, lists bus routes that stop at those stops along with times till the next bus arrives, and displays those bus routes end-to-end on a map with all the stops inbetween.  Basically, a great app for traveling on London's buses.
 
 ## Dining
 
@@ -136,12 +158,15 @@ Second, employees at restaurants here are paid what they should be, not beneath 
 
 The currency in the UK is pounds (also called pounds sterling and abbreviated with the "£" symbol), and decimal amounts are called pence (usually abbreviated with the lowercase letter "p").  How you pay for things in the UK is up to you, but it's a good idea to have some cash on hand even if you intend to use your US credit card (which you can do) as some shops don't take cards.
 
-Magnetic-swipe cards exist here, but "[chip and pin][]" cards are much more commonly used.  They work much like debit card readers in the US except you insert your card and then type your pin – kinda like an ATM – as opposed to swiping.  You won't have one of these cards, so if/when a shop or restaurant asks you to insert your card, more than likely you can just insert your card into the reader as if it had a chip, and the reader will read the magnetic stripe instead; otherwise, look for a separate swipe area either on top or on the side of the reader..
+Magnetic-swipe cards exist here, but "[chip and pin][]" cards are much more commonly used.  They work much like debit card readers in the US except you insert your card and then type your pin – kinda like an ATM – as opposed to swiping.  You won't have one of these cards, so if/when a shop or restaurant asks you to insert your card, more than likely you can just insert your card into the reader as if it had a chip, and the reader will read the magnetic stripe instead; otherwise, look for a separate swipe area either on top or on the side of the reader.
+
+If you're going to use your credit and/or debit cards in the UK, be sure to call your bank before you leave and let them know you'll be travelling.  Otherwise, your bank may think somebody other than you is using your card fradulently, and they may start denying your transactions.
 
 ## Miscellanous
 
 - When crossing the street, don't needlessly wait for the walk signal; it's a sure sign of a tourist.  Pay attention to which direction traffic is travelling (may be left or right depending on if the street is one-way or not – and keep in mind the direction of travel is the reverse of what you're used to), and if the coast is clear, just go.  When in doubt, if others are doing it, you probably should too.
 - On a related note, the traffic lights here work a little differently in that they will generally move back to yellow before turning green (instead of going straight from red to green), but that doesn't mean drivers will wait for the green, so keep that in mind when considering whether to cross or not.
+- Avoid answering or making calls on the Tube; not only may your service drop in and out, but it's also just super obnoxious.
 
 [Heathrow]: http://en.wikipedia.org/wiki/London_Heathrow_Airport
 [Heathrow Express]: http://en.wikipedia.org/wiki/Heathrow_Express
@@ -163,4 +188,6 @@ Magnetic-swipe cards exist here, but "[chip and pin][]" cards are much more comm
 [T-Mobile]: http://tmobile.co.uk
 [3]: http://www.three.co.uk
 [Vodafone]: http://www.vodafone.co.uk
+[Tube Tamer]: https://itunes.apple.com/gb/app/tube-tamer-london-journey/id558106521?mt=8
+[Bus Checker]: https://itunes.apple.com/gb/app/london-bus-checker-live-countdown/id465042992?mt=8
 [chip and pin]: http://en.wikipedia.org/wiki/Chip_and_PIN
