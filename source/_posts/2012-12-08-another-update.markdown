@@ -58,7 +58,7 @@ More pictures from this on [Flickr][2].
 
 ## Our lives
 
-I've really picked up my cooking in the last month or so. We have had an app on the iPad ([Paprika][2], for those interested) for a while that I started using in Austin to organize some of my recipes. That worked okay in Austin, but these days since I'm not working, I do the menu planning and grocery shopping while Lee has the iPad at work, so I wasn't being adventurous in my cooking at all. I noticed a few weeks ago that I had gotten in a bad habit of just bookmarking the recipes I want to try and then never doing anything with them. So I got the same app for my computer and started going through and adding all of the recipes I thought I'd like to try. It's been working great! I have been making 2-3 new recipes a week (not all full meals - some side dishes also) and we have been really happy with the results, and the variety! Just about every time I cook, Lee comments about how good of a cook I am becoming and that is great for my confidence. :)
+I've really picked up my cooking in the last month or so. We have had an app on the iPad ([Paprika][3], for those interested) for a while that I started using in Austin to organize some of my recipes. That worked okay in Austin, but these days since I'm not working, I do the menu planning and grocery shopping while Lee has the iPad at work, so I wasn't being adventurous in my cooking at all. I noticed a few weeks ago that I had gotten in a bad habit of just bookmarking the recipes I want to try and then never doing anything with them. So I got the same app for my computer and started going through and adding all of the recipes I thought I'd like to try. It's been working great! I have been making 2-3 new recipes a week (not all full meals - some side dishes also) and we have been really happy with the results, and the variety! Just about every time I cook, Lee comments about how good of a cook I am becoming and that is great for my confidence. :)
 
 I think we are settling in here nicely. I think we both go back and forth on a daily basis about our lives here and how long we would like to stay. I think the only thing we agree on completely now is that a year isn't long enough, so hopefully that gets extended. I am still on the fence about getting a job, but I've started looking, just not very seriously yet. Since I would need to be off for 2-3 weeks in January for our trip home, it seems like a silly time to get hired somewhere. We also really need to do some more traveling. I'd like to get another weekend trip in before the end of the year; I'm not sure how practical that goal is, but we will see. 
 
@@ -67,5 +67,5 @@ I think we are settling in here nicely. I think we both go back and forth on a d
 We are also looking forward to our trip back to Texas in January. We will be there for about 2 weeks and we'll get to spend time in DFW and Austin. It should be awesome.
 
 [1]: http://www.flickr.com/photos/jlgoolsbee/sets/72157632037103020/
-[2]: http://www.paprikaapp.com
-[3]: http://www.flickr.com/photos/jlgoolsbee/sets/72157632188312983/
+[2]: http://www.flickr.com/photos/jlgoolsbee/sets/72157632188312983/
+[3]: http://www.paprikaapp.com
