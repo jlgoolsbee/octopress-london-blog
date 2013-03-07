@@ -1,0 +1,77 @@
+---
+layout: post
+title: "Dublin"
+date: 2013-03-06 21:43
+author: "Stephanie"
+comments: true
+external-url: 
+categories: 
+---
+
+{% raw %}<a class="fancybox" href="/images/blog/2013-03-06-dublin/DSC01193.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01193.jpg" class="right"/></a>{% endraw %}Our trip to Dublin went pretty well – all things considered – but it definitely wasn't our best attempt at traveling.
+
+We left London on Saturday morning, so we were in Dublin before noon. Unfortunately, Lee wasn't feeling great when left (food poisoning), and was pretty miserable by the time we got there. We were, however, able to check into our B&B immediately, so Lee was able to get some rest, and it was located very close to the city center so I was able to go out on my own without having to go too far. So, I spent Saturday afternoon/evening wandering around a little on my own and sitting in front of the fire in the B&B's sitting room.
+
+Sunday, Lee was feeling a little better so we ventured out to a walking tour. Despite being one of the most highly rated things to do in Dublin, we were a little underwhelmed. The tour guide was decent, but he was quite long-winded when it came to pretty much everything but the sites and history. We did get to see a fair amount of the city on foot which was great. 
+
+{% raw %}
+<p class="fancybox-group">
+    <a class="fancybox" rel="dublin-walking" href="/images/blog/2013-03-06-dublin/DSC01200.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01200.jpg" alt=""/></a>
+    <a class="fancybox" rel="dublin-walking" href="/images/blog/2013-03-06-dublin/DSC01267.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01267.jpg" alt=""/></a>
+    <a class="fancybox" rel="dublin-walking" href="/images/blog/2013-03-06-dublin/DSC01301.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01301.jpg" alt=""/></a>
+    <a class="fancybox" rel="dublin-walking" href="/images/blog/2013-03-06-dublin/DSC01307.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01307.jpg" alt=""/></a>
+</p>
+{% endraw %}
+
+After the walking tour, we headed out to the Guinness Storehouse. The tour covers the whole process of making Guinness and ends in a room where you learn the proper technique to pour a Guinness and then you get to take your pint up to the bar at the top of the building with a beautiful panoramic view of Dublin.
+
+{% raw %}
+<p class="fancybox-group">
+    <a class="fancybox" rel="dublin-guinness" href="/images/blog/2013-03-06-dublin/DSC01313.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01313.jpg" alt=""/></a>
+    <a class="fancybox" rel="dublin-guinness" href="/images/blog/2013-03-06-dublin/DSC01347.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01347.jpg" alt=""/></a>
+    <a class="fancybox" rel="dublin-guinness" href="/images/blog/2013-03-06-dublin/DSC01373.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01373.jpg" alt=""/></a>
+    <a class="fancybox" rel="dublin-guinness" href="/images/blog/2013-03-06-dublin/DSC01386.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01386.jpg" alt=""/></a>
+</p>
+{% endraw %}
+
+On Monday, we took a day tour to the Cliffs of Moher on the east side of Ireland. We were looking for something similar to the tour we did in [Edinburgh][1]. This wasn't really it. We took this one because of its high rating on TripAdvisor, and while it wasn't a bad tour, it just wasn't exactly what we were looking for. Plus, our tour guide left the microphone on the entire time he was driving, and proceeded to do something that sounded like he was eating hard candy THE ENTIRE DAY! I'm super glad Lee and I have a similar sense of humor, because making jokes to each other is about the only way I didn't go crazy listening to ridiculous noises. After we got back, we went to a pub near our hotel, and had yummy pub food and listened to some live  Irish music. 
+
+{% raw %}
+<p class="fancybox-group">
+    <a class="fancybox" rel="dublin-cliffs" href="/images/blog/2013-03-06-dublin/DSC01409.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01409.jpg" alt=""/></a>
+    <a class="fancybox" rel="dublin-cliffs" href="/images/blog/2013-03-06-dublin/DSC01460.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01460.jpg" alt=""/></a>
+    <a class="fancybox" rel="dublin-cliffs" href="/images/blog/2013-03-06-dublin/DSC01507.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01507.jpg" alt=""/></a>
+    <a class="fancybox" rel="dublin-cliffs" href="/images/blog/2013-03-06-dublin/DSC01568.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01568.jpg" alt=""/></a>
+</p>
+{% endraw %}
+
+Tuesday was our last day in Dublin, but since our flight wasn't until 7:45pm, we had almost another whole day. We checked out of the B&B and took the light rail to Kilmainham Gaol. This is an old jail and museum that was used for a few hundred years up until the late 1920s. It was a pretty interesting tour with a lot of Irish history.
+
+{% raw %}
+<p class="fancybox-group">
+    <a class="fancybox" rel="dublin-gaol" href="/images/blog/2013-03-06-dublin/DSC01208.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01208.jpg" alt=""/></a>
+    <a class="fancybox" rel="dublin-gaol" href="/images/blog/2013-03-06-dublin/DSC01609.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01609.jpg" alt=""/></a>
+    <a class="fancybox" rel="dublin-gaol" href="/images/blog/2013-03-06-dublin/DSC01631.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01631.jpg" alt=""/></a>
+    <a class="fancybox" rel="dublin-gaol" href="/images/blog/2013-03-06-dublin/DSC01632.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01632.jpg" alt=""/></a>
+</p>
+{% endraw %}
+
+After that, we went to the Old Jameson Distillery. It was another tour that ended in a bar - sensing a theme? Lee volunteered to be part of the "taste tester" group, so at the end of the tour he got to compare Jameson with a scotch and an American whiskey, and then he got a certificate naming him an "official Irish whiskey taster". Afterwards, we spent a little time shopping, and headed to the airport. 
+
+{% raw %}
+<p class="fancybox-group">
+    <a class="fancybox" rel="dublin-jameson" href="/images/blog/2013-03-06-dublin/DSC01669.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01669.jpg" alt=""/></a>
+    <a class="fancybox" rel="dublin-jameson" href="/images/blog/2013-03-06-dublin/DSC01680.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01680.jpg" alt=""/></a>
+    <a class="fancybox" rel="dublin-jameson" href="/images/blog/2013-03-06-dublin/DSC01690.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01690.jpg" alt=""/></a>
+    <a class="fancybox" rel="dublin-jameson" href="/images/blog/2013-03-06-dublin/IMG_3960.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/IMG_3960.jpg" alt=""/></a>
+</p>
+{% endraw %}
+
+Of course, we made sure to get to the airport in plenty of time, and our flight ended up being delayed. We got back to our flat about 10:45pm last night, which was a bit later than planned, but what are ya going to do? All in all, it was a fun trip. Lee never did feel 100%, and I think he kind of pushed himself since we were on vacation, because he pretty much cratered when we got home last night.
+
+{% raw %}<a class="fancybox" href="/images/blog/2013-03-06-dublin/DSC01706.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01706.jpg" class="right"/></a>{% endraw %}There are definitely some things we would do differently next time. We are, however, already talking about our next trip to Ireland. There was so much we didn't get a chance to see this time and we would love to go back.
+
+More photos on [Flickr][2].
+
+[1]: http://austintolondon.com/blog/2012/10/08/edinburgh/
+[2]: http://www.flickr.com/photos/jlgoolsbee/sets/72157632937011624/
