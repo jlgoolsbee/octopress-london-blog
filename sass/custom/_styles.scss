@@ -201,3 +201,11 @@ div#tocBlock {
 .toc-top-link:hover {
   text-decoration: none;
 }
+
+/* Flickr sidebar */
+.flickr {
+  text-align: left;
+}
+aside.sidebar section .flickr img {
+  margin: 10px 20px 5px 0px;
+}

@@ -116,4 +116,16 @@ facebook_show_send: false
 # Fancybox
 use_fancybox: true
 
-
+# Flickr Badge
+flickr_user: 69663490@N00     # user id, not username (find with http://idgettr.com)
+flickr_user_name: jlgoolsbee  # username
+flickr_count: 8               # number of photos to show
+flickr_display: latest        # random or latest
+flickr_size: t                # t (thumbnail), s (small square), m (medium)
+# source: user (all user's public photos), user_tag (user's tagged photos),
+# all (everyone's public photos), all_tag (all public photos tagged with tag)
+flickr_source: user
+flickr_tag:                   # set if flickr_source is set to user_tag or all_tag
+flickr_link_to_set: false
+flickr_link_to_collection: true
+flickr_collection: 72157632035453902
