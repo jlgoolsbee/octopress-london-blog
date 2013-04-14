@@ -277,6 +277,7 @@ $(document).ready(function() {
     nextEffect  : 'fade',
     prevEffect : 'fade'
   });
+  $("#flickr_badge_wrapper a").attr('target','_blank');
 });
 
 var htmlEncode = (function() {
