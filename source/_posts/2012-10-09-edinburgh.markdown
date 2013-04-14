@@ -5,7 +5,7 @@ date: 2012-10-08
 author: "Stephanie"
 comments: true
 external-url: 
-categories: trips
+categories: Travel
 ---
 
 {% gmap "Edinburgh, Scotland" 8 right %}

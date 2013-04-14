@@ -5,7 +5,7 @@ date: 2013-02-24 12:00
 author: "Stephanie"
 comments: true
 external-url: 
-categories: 
+categories: Travel
 ---
 
 {% raw %}<a class="fancybox" href="/images/blog/2013-02-24-day-of-adventure/DSC00906.jpg" title="Our noble steed!"><img src="/images/blog/2013-02-24-day-of-adventure/thumbnails/DSC00906.jpg" class="right"/></a>{% endraw %}We spent yesterday driving through the English countryside. That's right. Driving. 

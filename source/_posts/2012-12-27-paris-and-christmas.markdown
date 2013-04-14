@@ -5,7 +5,7 @@ date: 2012-12-27
 author: "Stephanie"
 comments: true
 external-url: 
-categories: 
+categories: Travel
 ---
 
 Well, we've officially had our first Christmas on our own. We had a really nice day, but we also really missed time with our families. 

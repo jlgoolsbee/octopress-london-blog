@@ -5,7 +5,7 @@ date: 2013-03-06 21:43
 author: "Stephanie"
 comments: true
 external-url: 
-categories: 
+categories: Travel
 ---
 
 {% raw %}<a class="fancybox" href="/images/blog/2013-03-06-dublin/DSC01193.jpg"><img src="/images/blog/2013-03-06-dublin/thumbnails/DSC01193.jpg" class="right"/></a>{% endraw %}Our trip to Dublin went pretty well – all things considered – but it definitely wasn't our best attempt at traveling.
