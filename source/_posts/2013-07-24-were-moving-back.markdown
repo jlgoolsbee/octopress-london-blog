@@ -19,9 +19,13 @@ _Warning! Begin rant…_
 Traveling alone was a little strange. Lee and I have travelled so much in the last year and we've got a nice routine down, so it was a little weird to do it all by myself. Plus, I had to rent a car and stay in a hotel alone, which was strange. Everything went smoothly though... well, mostly. I will never ever (ever, ever, ever) fly into JFK from overseas again. We had to make a decision pretty fast – we had visitors arriving on July 11, making it a kind of now-or-never situation – so we booked my flight the day before I left, and JFK was the only route with seats left on both flights. 
 
 At JFK, I had a nearly 2.5 hr layover and was pretty panicked the whole time I was there that I would miss my flight. I waited:
+
 * 45 minutes in the "quick connections" line in immigration (I shudder to think what it would have been like in the normal line),
+
 * 10 minutes to find my bag (which had been removed with all the others from my flight and placed in a remote corner of baggage claim),
+
 * 10 minutes to "recheck" my bag, which really just meant I stuck in a pile with a bunch of others and hoped it made it,
+
 * and 1+ hour waiting in the security line. 
 
 If you are counting, that means less than 25 minutes to get from Terminal 4 to Terminal 2 (via bus!) and get on my flight. Thankfully, I made it (and so did my bag, amazingly), but it was a very stressful few hours. Once in Austin though, everything went very smoothly.
